@@ -1,6 +1,6 @@
-![Build Status](https://gitlab.com/phsd/phsd.gitlab.io/badges/master/pipeline.svg)
+![Build Status](https://github.com/phsd/phsd.github.io/badges/master/pipeline.svg)
 
-[phsd.gitlab.io](http://phsd.gitlab.io)
+[phsd.github.io](http://phsd.github.io)
 ---
 ## Building locally
 
